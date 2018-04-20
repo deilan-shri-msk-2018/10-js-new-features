@@ -13,5 +13,10 @@
   "bugs": {
     "url": "https://github.com/deilan-shri-msk-2018/10-js-new-features/issues"
   },
-  "homepage": "https://github.com/deilan-shri-msk-2018/10-js-new-features#readme"
+  "homepage": "https://github.com/deilan-shri-msk-2018/10-js-new-features#readme",
+  "devDependencies": {
+    "babel-cli": "6.26.0",
+    "babel-polyfill": "6.26.0",
+    "babel-preset-env": "1.6.1"
+  }
 }
